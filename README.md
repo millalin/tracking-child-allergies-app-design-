@@ -11,7 +11,11 @@ The aim of the project work is to develop a design for a novel health-related in
 
 
 [**Project part 1** documentation](https://github.com/millalin/tracking-child-allergies-app-design-/blob/main/Project_design_and_documentation/project_part1.pdf) 
-[**Project part 2** documentation](https://github.com/millalin/tracking-child-allergies-app-design-/blob/main/Project_design_and_documentation/project_part2_Lintunen.pdf) 
+
+
+[**Project part 2** documentation](https://github.com/millalin/tracking-child-allergies-app-design-/blob/main/Project_design_and_documentation/project_part2_Lintunen.pdf)
+
+
 [**Project part 3** documentation]() 
 
 
